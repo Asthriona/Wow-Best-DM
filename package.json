@@ -1,0 +1,19 @@
+{
+  "name": "asthrionablog",
+  "version": "1.0.0",
+  "description": "My premium Nuxt.js project",
+  "author": "Asthriona",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "nuxt": "^2.0.0",
+    "storyblok-nuxt": "^1.0.1"
+  },
+  "devDependencies": {}
+}
