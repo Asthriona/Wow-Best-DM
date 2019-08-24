@@ -1,6 +1,6 @@
 # AsthrionaBlog
 
-> My premium Nuxt.js project
+> My persona Blog! :)
 
 ## Build Setup
 
