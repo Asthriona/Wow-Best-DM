@@ -1,12 +1,12 @@
 <template>
   <section id="posts">
     <PostPreview
-    v-for="post in posts"
-    :key="post.id"
-    :title="post.title"
-    :excerpt="post.previewText"
-    :thumbnailImage="post.thumbnailUrl"
-    :id="post.id" />
+      v-for="post in posts"
+      :key="post.id"
+      :title="post.title"
+      :excerpt="post.previewText"
+      :thumbnailImage="post.thumbnailUrl"
+      :id="post.id" />
   </section>
 </template>
 
@@ -27,7 +27,7 @@ export default {
         return {
           id: bp.slug,
           title: bp.content.title,
-          previewText: bp.content.summary,
+          previewText: bp.content.summay,
           thumbnailUrl: bp.content.thumbnail
         }
       })

@@ -21,5 +21,3 @@ red {
     color: red;
 }
 </style>
-<script>
-</script>
