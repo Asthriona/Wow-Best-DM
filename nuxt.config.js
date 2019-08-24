@@ -16,7 +16,7 @@ export default {
       { hid: 'description', name: 'description', content: "Hi! I'm Asthriona, and I dont have name. people call me weeb. I'm Friendly, Everyone like me... I dont know why. I love anime (That's maybe why ppl call me weeb.) Playing Video Games, Mainly WoW. I'm part of The Wall, The best WoW EU Guild." || '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon-32x32.png' },
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Raleway:400,700&display=swap' }
     ]
   },
