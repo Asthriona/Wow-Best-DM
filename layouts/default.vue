@@ -3,7 +3,7 @@
     <theHeader />
     <main class="main-content">
       <nuxt />
-    <TheFooter />
+    <!--<TheFooter />-->
     </main>
   </div>
 </template>
