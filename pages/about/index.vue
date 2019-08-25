@@ -16,7 +16,7 @@
                     Fav (Console) Game -> Persona 5, Fav (PC) game -> WoW
                 </p>
                 <h2 style="margin-top:50px;">About this website</h2>
-                <p>This Website is developped by <a href="//Asthriona.com">Asthriona</a> and hosted by <a href="https://SiriusMediaGroup.com">Sirius Media Grouo</a><br>
+                <p>This Website is developped by <a href="//Asthriona.com">Asthriona</a> and hosted by <a href="https://SiriusMediaGroup.com">Sirius Media Group</a><br>
                 This is a beta Version, If you find bug, please contact me at <a href="MAILTO:im@Asthriona.com">im@Asthriona.com</a> or On <a href="https://github.com/Asthriona/Ashtriona-Blog">on GitHub</a> (Please Create a Issue.) Or directly on <a href="https://twitter.com/Asthriona">Twitter @Asthriona</a></p>
                 <p>The contnent is under © Copyright Asthriona, All Right Reserved. {{ new Date().getFullYear() }} <br>
                 Code is under <a href="https://github.com/Asthriona/Ashtriona-Blog/blob/master/LICENSE">Mozilla Public License 2.0</a> which means you can use &amp; modify the code  for yourself, but you have to credit me.<br>
