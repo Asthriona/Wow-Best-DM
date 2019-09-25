@@ -4,9 +4,9 @@
             <div class="row">
                 <h1 class="col-md-12">About Me.</h1>
                 <p class="col-md-11 offset-md-1">
-                    Hey, I'm Asthriona, And I still dont have a name, except "HEY!" or "Hey Dumb shit!"<br>
+                    Hey, I'm Asthriona, And I still dont have a name, except "HEY!" or "Hey YOU!"<br>
                     I'm somekind of WebDev, I work for Sirius Media Group, as Lead Producer and Lead Project developer.<br>
-                    I hate Coding, But I love it at the same time. dont ask me why, Taking about code, i'm also working for NuxArch<br>
+                    I hate Coding, But I love it at the same time. dont ask me why, Taking about code, i'm also working for NuxArch & <a href="https://RainboomStudio.com"> Rainboom Studio</a> UK<br>
                 </p>
                 <p class="col-md-11 offset-md-1">
                     Outside of code and work, i love to have fun with friend at <a href="http://TheWall.ovh">The Wall</a>, And watch anime.<br>
