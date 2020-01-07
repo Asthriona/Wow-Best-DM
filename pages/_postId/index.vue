@@ -13,8 +13,9 @@
 <script>
 export default {
     asyncData(context) {
-        return context.app.$storyapi.get('cdn/stories/blog/' + context.params.postId, {
-            version: "Published"
+        return context.app.$storyapi
+            .get('cdn/stories/blog/' + context.params.postId, {
+                version: "Published"
         })
         .then(res => {
     return {
@@ -24,7 +25,7 @@ export default {
             content: res.data.story.content.content
             };
         });
-    }
+    },
 };
 </script>
 
