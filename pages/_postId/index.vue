@@ -11,6 +11,7 @@
 </template>
 
 <script>
+import marked from 'marked'
 export default {
     asyncData(context) {
         return context.app.$storyapi
@@ -26,6 +27,11 @@ export default {
             };
         });
     },
+    computed: {
+    body () {
+      return marked(this.data.story.content.content)
+    }
+  },
 };
 </script>
 

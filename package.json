@@ -16,6 +16,7 @@
     "bootstrap-vue": "^2.1.0",
     "front-matter": "^3.0.2",
     "markdown-it": "^10.0.0",
+    "marked": "^0.8.0",
     "nuxt": "^2.11.0",
     "storyblok-nuxt": "^1.0.1"
   },
