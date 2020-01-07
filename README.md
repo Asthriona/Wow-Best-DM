@@ -1,6 +1,6 @@
-# AsthrionaBlog
+# WoW Best DM!
 
-> My persona Blog! :)
+> Here I post all the DM I got on World Of Warcraft, All the funny ones!
 
 ## Build Setup
 
