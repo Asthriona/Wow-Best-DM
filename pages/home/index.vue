@@ -15,7 +15,7 @@
       <li>Or text directly in the mail.</li>
     </ul>
     <p>
-      Please don't send us Screenshot. text only. you can use an addon like WIM to be able to copy past your discution.
+      Please don't send us Screenshot, text only. you can use an addon like <a href="https://www.curseforge.com/wow/addons/wim-3" target="_blank" rel="noopener noreferrer">WIM</a> to be able to copy past your discution.
       <br />If you send us a Screenshot I still post it on Twitter.
       <br />Please dont forget to send us your social link so we can credit you :)
     </p>
