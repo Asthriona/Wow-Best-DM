@@ -3,7 +3,8 @@
     <div id="post" v-editable="blok">
     <div class="post-thumbnail" :style="{backgroundImage: 'url(' + image + ')'}"></div>
     <section class="post-content">
-        <h1>{{ title }}</h1>
+        <h2 class="title">{{ title }}</h2>
+        <hr>
         <p>{{ content }}</p>
     </section>
     </div>
@@ -41,5 +42,9 @@ export default {
 }
 .post-content p {
     white-space: pre-line;
+}
+.title {
+    margin-top: 4.3rem;
+    margin-bottom: 4.3rem;
 }
 </style>

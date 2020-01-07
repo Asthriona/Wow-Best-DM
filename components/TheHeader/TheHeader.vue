@@ -2,7 +2,7 @@
     <header class="main-header">
         <nav class="main-nav">
             <ul class="nav-links">
-                <a href="http://asthriona.com">Home</a>
+                <a href="/home">Home</a>
                 <nuxt-link to="/" tag="li" class="nav-link"><a>All Post</a></nuxt-link>
                 <nuxt-link to="/about" tag="li" class="nav-link"><a>About</a></nuxt-link>
             </ul>

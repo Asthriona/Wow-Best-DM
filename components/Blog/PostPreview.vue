@@ -7,7 +7,7 @@
         :style="{backgroundImage: 'url(' + thumbnailImage + ')'}"
         class="post-preview-thumbnail"></div>
         <div class="post-peview-content">
-            <h1>{{ title }}</h1>
+            <h4><b>{{ title }}</b></h4>
             <p>{{ excerpt }}</p>
         </div>
     </article>
